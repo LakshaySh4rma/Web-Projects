@@ -1,1 +1,2 @@
-
+# Corona Map Explorer
+Welcome to Corona Map Explorer, your go-to platform for visualizing the spread of COVID-19 around the globe. Our interactive map offers real-time data on case numbers, recoveries, and fatalities, sourced from reliable health authorities. With intuitive navigation and detailed regional insights, you can track the pandemic's trends and understand its impact in different areas. Stay informed and empowered with up-to-date information, historical trends, and essential health resources all in one place. Explore responsibly and stay safe with Corona Map Explorer.
